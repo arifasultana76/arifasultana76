@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
 <h1 align="center"></h1>
@@ -12,6 +11,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yourchannel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arifasultana76/)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile//arifasultana76/)
+
+<h1 align="center"></h1>
 
 ###
 
