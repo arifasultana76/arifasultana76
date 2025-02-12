@@ -13,8 +13,6 @@
 
 <h1 align="center"></h1>
 
-###
-
 ## 🎯 Objective 
 ### To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 
@@ -23,9 +21,9 @@
 <h2 align="left"></h2>
 
 ## 💡 Skills 
-## 🖥️ Programming Languages - Python, Html, 
-## 🌱 I’m currently learning - Flutter, Dart , CSS
-## 🛠️ Tools - Git, GitHub
+### 🖥️ Programming Languages - Python, Html, 
+### 🌱 I’m currently learning - Flutter, Dart , CSS
+### 🛠️ Tools - Git, GitHub
 
 ## ⚡ Fun fact I'm Lazy but Smart!
 
