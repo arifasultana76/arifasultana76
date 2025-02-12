@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
 <h1 align="left"></h1>
 
 ###
 
-<p align="left"><h2 align="center">🎯 Objective</h2> <p align="center"> To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer. </p></p>
+## 🎯 Objective To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 
 ###
 
@@ -20,18 +20,16 @@
 
 <h2 align="left"></h2>
 
-## 💡 Skills ### 🧩 Flutter Framework - Flutter (Android, iOS, Web) - Bloc, MVVM, Provider - RESTful API ### 🖥️ Programming Languages - Dart, Java, Python, C++, C, Kotlin, JavaScript ### 🛢️ Databases - Firebase, MongoDB, MySQL, SQLite, Hive ### 🛠️ Tools - Git, GitHub, UI/UX, Figma - Google Play Console, AdMob, Analytics ### 📦 Softwares - Android Studio, VS Code, XAMPP, Postman 
+## 💡 Skills 
+### 🧩 Flutter Framework 
+### 🖥️ Programming Languages - Dart, Java, Python, C++, C, Kotlin, JavaScript 
+### 🛠️ Tools - Git, GitHub
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/arifasultana76/arifasultana76/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/arifasultana76/arifasultana76/main/assets/snake.svg" alt="Snake animation" />
-
 
 ###
 
@@ -60,5 +58,14 @@
 <p align="left">✍️ Dev Quote<br><br>"Programming is not about typing, it’s about thinking."   – Rich Hickey</p>
 
 ###
+### 🎯 Interests
+
+- 📂 I enjoy contributing to open-source projects
+- ✈️ Traveling
+- 🎤 Public Speaking
+- 🗓️ Hosting Events
+- 📖 Reading
+- 📝 Writing
+
 
    
