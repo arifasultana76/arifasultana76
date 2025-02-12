@@ -27,13 +27,8 @@
 
 ## ⚡ Fun fact I'm Lazy but Smart!
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arifasultana76/arifasultana76/output/snake.svg" alt="Snake animation" />
-
-![snake gif](https://github.com/arifasultana76/arifasultana76/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/arifasultana76/arifasultana76/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
