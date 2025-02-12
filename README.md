@@ -1,13 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
-
-<h1 align="center"></h1>
-
 ###
-
-<h1 align="center"></h1>
-
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifasultana76/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
@@ -27,11 +21,11 @@
 <h2 align="left"></h2>
 
 ## 💡 Skills 
-### 🖥️ Programming Languages - Python, Html, 
-### 🌱 I’m currently learning - Flutter, Dart , CSS
-### 🛠️ Tools - Git, GitHub
+## 🖥️ Programming Languages - Python, Html, 
+## 🌱 I’m currently learning - Flutter, Dart , CSS
+## 🛠️ Tools - Git, GitHub
 
-### ⚡ Fun fact I'm Lazy but Smart!
+## ⚡ Fun fact I'm Lazy but Smart!
 
 ###
 
@@ -63,7 +57,8 @@
 
 ###
 
-<p align="left">✍️ Dev Quote<br><br> "Programming is not about typing, it’s about thinking."   – Rich Hickey</p>
+### ✍️ Dev Quote  
+"Programming is not about typing, it’s about thinking."    – Rich Hickey</p>
 
 ###
 
