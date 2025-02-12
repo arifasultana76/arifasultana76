@@ -5,6 +5,9 @@
 <h1 align="center"></h1>
 
 ###
+
+<h1 align="center"></h1>
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifasultana76/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
@@ -28,7 +31,7 @@
 ### 🌱 I’m currently learning - Flutter, Dart , CSS
 ### 🛠️ Tools - Git, GitHub
 
-## ⚡ Fun fact I'm Lazy but Smart!
+### ⚡ Fun fact I'm Lazy but Smart!
 
 ###
 
@@ -60,7 +63,7 @@
 
 ###
 
-<p align="left">✍️ Dev Quote<br><br>"Programming is not about typing, it’s about thinking."   – Rich Hickey</p>
+<p align="left">✍️ Dev Quote<br><br> "Programming is not about typing, it’s about thinking."   – Rich Hickey</p>
 
 ###
 
@@ -72,13 +75,12 @@
 
 ### 🎯 Interests
 
-📂 I enjoy contributing to open-source projects
-✈️ Traveling
-🎤 Public Speaking
-🗓️ Hosting Events
-📖 Reading
-📝 Writing
+📂 I enjoy contributing to open-source projects <br>
+✈️ Traveling <br>
+🎤 Public Speaking <br>
+🗓️ Hosting Events <br>
+📖 Reading <br>
+📝 Writing <br>
 🤝 Volunteering
-
 
    
