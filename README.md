@@ -1,3 +1,4 @@
+###
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
@@ -5,12 +6,62 @@
 <h1 align="left"></h1>
 
 ###
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifasultana76/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yourchannel)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arifasultana76/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile//arifasultana76/)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Icons</title>
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .icon-container {
+            display: flex;
+            gap: 15px;
+        }
+        .icon-box {
+            width: 60px;
+            height: 60px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: white;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            text-decoration: none;
+            color: #333;
+            font-size: 24px;
+            transition: all 0.3s ease;
+        }
+        .icon-box:hover {
+            background-color: #ddd;
+        }
+        .icon-box img {
+            width: 24px;
+            height: 24px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="icon-container">
+    <a href="https://www.facebook.com/arifasultana76/" class="icon-box" target="_blank"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.linkedin.com/in/arifasultana76/" class="icon-box" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+    <a href="https://www.instagram.com/_.arifa_sultana._/" class="icon-box" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/yourprofile" class="icon-box" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="https://leetcode.com/u/arifasultana76/" class="icon-box" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></a>
+    <a href="https://www.beecrowd.com.br/judge/en/profile//arifasultana76/" class="icon-box" target="_blank"><img src="https://www.beecrowd.com.br/judge/favicon.ico" alt="BeeCrowd"></a>
+</div>
+
+</body>
+</html>
 
 ###
 
@@ -63,20 +114,20 @@
 ###
 
 ### 🌍 Languages
-## English: - Fluent in reading, writing, and speaking
-## Bangla: - Native Language
+- English: Fluent in reading, writing, and speaking
+- Bangla: Native Language
 
 ###
 
 ### 🎯 Interests
 
-- 📂 I enjoy contributing to open-source projects
-- ✈️ Traveling
-- 🎤 Public Speaking
-- 🗓️ Hosting Events
-- 📖 Reading
-- 📝 Writing
-- 🤝 Volunteering
+📂 I enjoy contributing to open-source projects
+✈️ Traveling
+🎤 Public Speaking
+🗓️ Hosting Events
+📖 Reading
+📝 Writing
+🤝 Volunteering
 
 
    
