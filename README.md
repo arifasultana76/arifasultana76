@@ -30,6 +30,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/arifasultana76/arifasultana76/main/assets/snake.svg" alt="Snake animation" />
+
 
 ###
 
