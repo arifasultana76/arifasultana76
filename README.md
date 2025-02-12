@@ -24,7 +24,12 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/arifasultana76/arifasultana76/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ###
 
