@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=00A2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana&pause=2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
 <h1 align="left"></h1>
