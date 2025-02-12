@@ -1,4 +1,5 @@
 ###
+
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
@@ -12,7 +13,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Social Icons</title>
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <!-- Correct Font Awesome Link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <style>
         body {
             display: flex;
@@ -44,20 +46,20 @@
             background-color: #ddd;
         }
         .icon-box img {
-            width: 24px;
-            height: 24px;
+            width: 30px;
+            height: 30px;
         }
     </style>
 </head>
 <body>
 
 <div class="icon-container">
-    <a href="https://www.facebook.com/arifasultana76/" class="icon-box" target="_blank"><i class="fab fa-facebook-f"></i></a>
-    <a href="https://www.linkedin.com/in/arifasultana76/" class="icon-box" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-    <a href="https://www.instagram.com/_.arifa_sultana._/" class="icon-box" target="_blank"><i class="fab fa-instagram"></i></a>
-    <a href="https://www.youtube.com/channel/yourprofile" class="icon-box" target="_blank"><i class="fab fa-youtube"></i></a>
+    <a href="https://www.facebook.com/arifasultana76/" class="icon-box" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+    <a href="https://www.linkedin.com/in/arifasultana76/" class="icon-box" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
+    <a href="https://www.instagram.com/_.arifa_sultana._/" class="icon-box" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+    <a href="https://www.youtube.com/channel/yourprofile" class="icon-box" target="_blank"><i class="fa-brands fa-youtube"></i></a>
     <a href="https://leetcode.com/u/arifasultana76/" class="icon-box" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode"></a>
-    <a href="https://www.beecrowd.com.br/judge/en/profile//arifasultana76/" class="icon-box" target="_blank"><img src="https://www.beecrowd.com.br/judge/favicon.ico" alt="BeeCrowd"></a>
+    <a href="https://www.beecrowd.com.br/judge/en/profile/arifasultana76/" class="icon-box" target="_blank"><img src="https://www.beecrowd.com.br/judge/favicon.ico" alt="BeeCrowd"></a>
 </div>
 
 </body>
