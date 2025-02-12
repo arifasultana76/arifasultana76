@@ -1,29 +1,33 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=40&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
 <h1 align="left"></h1>
 
 ###
+- [Facebook](https://www.facebook.com/arifasultana76/)  
+- [LinkedIn](https://www.linkedin.com/in/arifasultana76/)   
+- [Instagram](https://www.instagram.com/_.arifa_sultana._/)  
+- [YouTube](https://www.youtube.com/c/yourchannel)  
+- [LeetCode](https://leetcode.com/u/arifasultana76/)
+- [beecrowd](https://beecrowd.com/u/arifasultana76/)   
 
-## 🎯 Objective To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
-<p align="left">🌱 I’m currently learning Flutter, Dart , CSS<br><br>💬 Ask me about Python, HTML<br><br>⚡ Fun fact I'm Lazy but Smart</p>
+## 🎯 Objective 
+### To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 
 ###
 
 <h2 align="left"></h2>
 
 ## 💡 Skills 
-### 🧩 Flutter Framework 
-### 🖥️ Programming Languages - Dart, Java, Python, C++, C, Kotlin, JavaScript 
+### 🖥️ Programming Languages - Python, Html, 
+### 🌱 I’m currently learning - Flutter, Dart , CSS
 ### 🛠️ Tools - Git, GitHub
+
+## ⚡ Fun fact I'm Lazy but Smart
 
 ###
 
