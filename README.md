@@ -1,17 +1,16 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=50&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=40&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
 <h1 align="left"></h1>
 
 ###
-- [Facebook](https://www.facebook.com/arifasultana76/)  
-- [LinkedIn](https://www.linkedin.com/in/arifasultana76/)   
-- [Instagram](https://www.instagram.com/_.arifa_sultana._/)  
-- [YouTube](https://www.youtube.com/c/yourchannel)  
-- [LeetCode](https://leetcode.com/u/arifasultana76/)
-- [beecrowd](https://beecrowd.com/u/arifasultana76/)   
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arifasultana76/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourprofile)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yourchannel)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arifasultana76/)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile//arifasultana76/)
 
 ###
 
@@ -27,7 +26,7 @@
 ### 🌱 I’m currently learning - Flutter, Dart , CSS
 ### 🛠️ Tools - Git, GitHub
 
-## ⚡ Fun fact I'm Lazy but Smart
+## ⚡ Fun fact I'm Lazy but Smart!
 
 ###
 
@@ -62,6 +61,13 @@
 <p align="left">✍️ Dev Quote<br><br>"Programming is not about typing, it’s about thinking."   – Rich Hickey</p>
 
 ###
+
+### 🌍 Languages
+## English: - Fluent in reading, writing, and speaking
+## Bangla: - Native Language
+
+###
+
 ### 🎯 Interests
 
 - 📂 I enjoy contributing to open-source projects
@@ -70,6 +76,7 @@
 - 🗓️ Hosting Events
 - 📖 Reading
 - 📝 Writing
+- 🤝 Volunteering
 
 
    
