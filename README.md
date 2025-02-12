@@ -1,10 +1,9 @@
-###
 
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&left=true&vleft=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
 </div>
 
-<h1 align="left"></h1>
+<h1 align="center"></h1>
 
 ###
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
