@@ -29,7 +29,7 @@
 
 - uses: Platane/snk/svg-only@v3
   with:
-    github_user_name: ${{ github.repository_owner }}
+    github_user_name: ${{ github.arifasultana76 }}
     outputs: |
       dist/github-snake.svg
 
