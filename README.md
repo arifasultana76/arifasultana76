@@ -27,11 +27,10 @@
 
 ## ⚡ Fun fact I'm Lazy but Smart!
 
-- uses: Platane/snk/svg-only@v3
+- uses: Platane/snk@v3
   with:
-    github_user_name: ${{ github.arifasultana76 }}
-    outputs: |
-      dist/github-snake.svg
+    github_user_name: arifasultana76
+    outputs: dist/github-snake.svg
 
 
 <div align="left">
