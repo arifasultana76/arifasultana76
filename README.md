@@ -27,10 +27,7 @@
 
 ## ⚡ Fun fact I'm Lazy but Smart!
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: arifasultana76
-    outputs: dist/github-snake.svg
+![GitHub Snake Animation](https://raw.githubusercontent.com/arifasultana76/arifasultana76/output/github-contribution-grid-snake.svg)
 
 
 <div align="left">
