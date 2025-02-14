@@ -68,6 +68,8 @@
 ### ✍️ Dev Quote  
 "Programming is not about typing, it’s about thinking."    – Rich Hickey</p>
 
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=default&font=default&quoteType=random&fontColor=turquoise)
+
 ###
 
 ### 🌍 Languages
