@@ -24,8 +24,20 @@
 ### 🖥️ Programming Languages - Python, Html, 
 ### 🌱 I’m currently learning - Flutter, Dart , CSS
 ### 🛠️ Tools - Git, GitHub
+### ⚡ Fun fact I'm Lazy but Smart!
 
-## ⚡ Fun fact I'm Lazy but Smart!
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
 
 <picture>
   <source
@@ -42,27 +54,16 @@
   />
 </picture>
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-</div>
-
 ###
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arifasultana76&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=arifasultana76&theme=radical&hide_border=false) 
 
+<div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifasultana76&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages">
+</div>
+                      
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
