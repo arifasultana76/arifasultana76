@@ -19,14 +19,13 @@
 ###
 
 <h2 align="left"></h2>
-
-## 💡 Skills 
-### 🖥️ Programming Languages - Python, Html, 
+ 
+### 🖥️ Programming Languages - Python, Html 
 ### 🌱 I’m currently learning - Flutter, Dart , CSS
 ### 🛠️ Tools - Git, GitHub
 ### ⚡ Fun fact I'm Lazy but Smart!
 
-
+## 💡 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
