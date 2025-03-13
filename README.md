@@ -94,9 +94,9 @@
 
 ###
 
-<div align="center">![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=arifasultana76&&label=Profile%20views&color=green&style=flat)
+<div align="center">
+  <img src="https://wakatime.com/badge/user/8c3465f1-37b3-4e43-8126-1adea6b98d89.svg" alt="WakaTime Profile Views">
 </div>
-<!-- [![WakaTime Profile Views](https://wakatime.com/badge/user/arifasultana76.svg)](https://wakatime.com/@arifasultana76) -->
 
 <div align="center">Made with ❤️ from Bangladesh by Arifa Sultana</div>
 
