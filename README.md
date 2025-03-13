@@ -92,6 +92,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arifasultana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arifasultana" /></a></p><br><br>
 
+###
+
+<div align="center">https://wakatime.com/dashboard</div>
+
+<div align="center">Made with ❤️ from Bangladesh by Arifa Sultana</div>
+
 
 
 
