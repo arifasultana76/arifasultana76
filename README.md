@@ -69,7 +69,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
 
 ### 🌍 Languages
 - English: Fluent in reading, writing, and speaking
