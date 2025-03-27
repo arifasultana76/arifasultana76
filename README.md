@@ -10,6 +10,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/yourchannel)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/arifasultana76/)
 [![Beecrowd](https://img.shields.io/badge/Beecrowd-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile//arifasultana76/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/arifasultana76)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arifasultana76)
 
 <h1 align="center"></h1>
 
@@ -21,7 +23,7 @@
 <h2 align="left"></h2>
  
 ### 🖥️ Programming Languages - Python, Html 
-### 🌱 I’m currently learning - Flutter, Dart , CSS
+### 🌱 I’m currently learning - CSS
 ### 🛠️ Tools - Git, GitHub
 ### ⚡ Fun fact I'm Lazy but Smart!
 
