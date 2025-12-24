@@ -70,7 +70,7 @@
 
 <h2>🌌 Tech Motion Zone</h2>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VtZWQ2d3czdThtbTNqdDV1MnE1MWw0NmJmdjdzNm1qbmt5eTB4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uVhWw4M2puM4bUJgM1/giphy.gif" width="400" />
 </div>
 
 <hr/>
