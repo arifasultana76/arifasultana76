@@ -86,7 +86,6 @@
 - English: Fluent in reading, writing, and speaking
 - Bangla: Native Language
 
-###
 
 ### 🎯 Interests
 
