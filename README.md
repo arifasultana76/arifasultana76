@@ -55,9 +55,7 @@
   />
 </picture>
 
-###
-
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arifasultana76&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
