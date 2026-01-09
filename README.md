@@ -24,7 +24,7 @@
 ### 🖥️ Programming Languages - Python
 ### 🌐 Markup & Style Languages: HTML, CSS
 ### 🌱 I’m currently learning - Django
-### 🛠️ Tools - Git, GitHub
+### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
 
 ## 💡 Skills
