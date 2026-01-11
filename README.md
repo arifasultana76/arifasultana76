@@ -1,3 +1,4 @@
+<div align="center">
 ![Profile views](https://komarev.com/ghpvc/?username=arifasultana76&label=Profile%20views&color=green&style=flat)
 
 <div align="center">
