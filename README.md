@@ -1,7 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=arifasultana76&label=Profile%20views&color=green&style=flat)
 
-<div align="center".
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=00A2FF&weight=700&center=true&vCenter=true&width=500&height=50&lines=Hi+There!+👋;I'm+Arifa+Sultana!&pause=2000"/>
 </div>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arifasultana76/)
