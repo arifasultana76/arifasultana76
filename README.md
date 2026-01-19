@@ -94,7 +94,7 @@
 
 ### 🎯 Interests
 
-📂 I enjoy contributing to open-source projects 
+📂 I enjoy contributing to open-source projects <br>
 ✈️ Traveling <br>
 🎤 Public Speaking <br>
 🗓️ Hosting Events <br>
