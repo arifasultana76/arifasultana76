@@ -72,7 +72,7 @@
 </div>
 <br/><br/> 
 
-### ✍️ Read my Blogs
+### ✍️ Read My Blogs
 <br>
 <div align="center">
 
