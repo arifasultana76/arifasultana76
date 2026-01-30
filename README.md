@@ -72,104 +72,13 @@
 </div>
 <br/><br/>  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Blog Table</title>
-
-<style>
-    body{
-        font-family: Arial, sans-serif;
-        background:#f5f5f5;
-        padding:40px;
-    }
-
-    table{
-        width: 80%;
-        margin: auto;
-        border-collapse: collapse;
-        background: white;
-        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-
-    th, td{
-        padding: 14px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-    }
-
-    th{
-        background: #f0f0f0;
-        font-weight: bold;
-        text-align: centre;
-    }
-
-    tr:hover{
-        background: #f9f9f9;
-    }
-
-    .platform{
-        display: flex;
-        align-items: centre;
-        gap: 8px;
-        font-weight: 500;
-    }
-
-    .read-link{
-        color: #0b5ed7;
-        text-decoration: none;
-        font-weight: 500;
-    }
-
-    .read-link:hover{
-        text-decoration: underline;
-    }
-</style>
-
-</head>
-<body>
-
-<table>
-    <thead>
-        <tr>
-            <th>Blog Name</th>
-            <th>Platform</th>
-            <th>Link</th>
-        </tr>
-    </thead>
-
-    <tbody>
-        <tr>
-            <td>Use Wakatime and Initialize Your Coding Time</td>
-            <td class="platform">Dev.to</td>
-            <td><a href="#" class="read-link">📂 Read</a></td>
-        </tr>
-
-        <tr>
-            <td>DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা!</td>
-            <td class="platform">Medium</td>
-            <td><a href="#" class="read-link">📂 Read</a></td>
-        </tr>
-
-        <tr>
-            <td>How I Hacked My Brain to Crave Coding Every Day</td>
-            <td class="platform">Hashnode</td>
-            <td><a href="#" class="read-link">📂 Read</a></td>
-        </tr>
-
-        <tr>
-            <td>16 Essential Qualities That Prove You Are a Skilled Programmer</td>
-            <td class="platform">Hashnode</td>
-            <td><a href="#" class="read-link">📂 Read</a></td>
-        </tr>
-
-       
-    </tbody>
-</table>
-
-</body>
-</html>
+| Blog Name | Platform | Link |
+|-----------|----------|------|
+| Use Wakatime and Initialize Your Coding Time | Dev.to | 📂 [Read](#) |
+| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা! | Medium | 📂 [Read](#) |
+| How I Hacked My Brain to Crave Coding Every Day | Hashnode | 📂 [Read](#) |
+| 16 Essential Qualities That Prove You Are a Skilled Programmer | Hashnode | 📂 [Read](#) |
+| Does Sass Offer the Features of a Programming Language? | Dev.to | 📂 [Read](#) |
 
 
 
