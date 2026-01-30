@@ -70,16 +70,18 @@
   <br/><br>
   <img width="350" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arifasultana76&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs"/>
 </div>
-<br/><br/>  
+<br/><br/> 
+
+### ✍️ Read my Blogs
+<br>
+<div align="center">
 
 | Blog Name | Platform | Link |
 |-----------|----------|------|
-| Use Wakatime and Initialize Your Coding Time | Dev.to | 📂 [Read](#) |
-| DOM কী? DOM নিয়ে কিছু মৌলিক ধারণা! | Medium | 📂 [Read](#) |
-| How I Hacked My Brain to Crave Coding Every Day | Hashnode | 📂 [Read](#) |
-| 16 Essential Qualities That Prove You Are a Skilled Programmer | Hashnode | 📂 [Read](#) |
-| Does Sass Offer the Features of a Programming Language? | Dev.to | 📂 [Read](#) |
+| “Git Lookback: Reading the Story Buried in Code”| Medium | 👉 [Read](https://medium.com/@arifasultana76/git-lookback-reading-the-story-buried-in-code-3ac9f3018cb1) |
+| 🌍 The Journey Behind Every Click: How Django Brings Websites to Life | Medium | 👉 [Read](https://medium.com/@arifasultana76/the-journey-behind-every-click-how-django-brings-websites-to-life-b0d21cf8406b) |
 
+</div>
 
 
 ### 🌌 Tech Motion Zone
