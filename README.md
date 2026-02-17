@@ -123,7 +123,7 @@
   <img src="https://wakatime.com/badge/user/8c3465f1-37b3-4e43-8126-1adea6b98d89.svg" alt="WakaTime Profile Views">
 </div>
 
-<div align="center">Made with ❤️ from Bangladesh by Arifa Sultana</div>
+<div align="center">Made with ❤️ from Bangladesh by Arifa Sultana </div>
 
 
 
