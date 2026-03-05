@@ -22,8 +22,9 @@
 <h2 align="left"></h2>
  
 ### 🖥️ Programming Languages - Python
-### 🌐 Markup & Style Languages: HTML, CSS
-### 🌱 I’m currently learning - Django
+### 🌐 Markup & Style Languages - HTML, CSS
+### 📚 Backend Development & Frameworks - Django
+### 🌱 I’m currently learning - API
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
 
