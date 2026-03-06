@@ -24,7 +24,7 @@
 ### 🖥️ Programming Languages - Python
 ### 🌐 Markup & Style Languages - HTML, CSS
 ### 📚 Backend Development & Frameworks - Django
-### 🌱 I’m currently learning - API
+### 🌱 I’m currently learning - API, Bootstrap
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
 
