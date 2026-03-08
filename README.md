@@ -19,11 +19,11 @@
 ###
 
 
-<h2 align="left"></h2>
+<h2 align="center"></h2>
  
 ### 🖥️ Programming Languages - Python
 ### 🌐 Markup & Style Languages - HTML, CSS
-### 📚 Backend Development & Frameworks - Django
+### 📚 Backend Development & Frameworks - Django, Django REST Framework (DRF)
 ### 🌱 I’m currently learning - API, Bootstrap
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
