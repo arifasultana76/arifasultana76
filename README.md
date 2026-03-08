@@ -19,7 +19,7 @@
 ###
 
 
-<h2 align="center"></h2>
+<h2 align="left"></h2>
  
 ### 🖥️ Programming Languages - Python
 ### 🌐 Markup & Style Languages - HTML, CSS
