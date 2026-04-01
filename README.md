@@ -108,11 +108,12 @@
 
 📂 I enjoy contributing to open-source projects <br>
 ✈️ Traveling <br>
+🤝 Volunteering <br>
 🎤 Public Speaking <br>
 🗓️ Hosting Events <br>
 📖 Reading <br>
-📝 Writing <br>
-🤝 Volunteering
+📝 Writing 
+
 ###
 
 <h3 align="left">Support:</h3>
