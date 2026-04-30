@@ -111,7 +111,7 @@
 🎤 Public Speaking <br>
 🗓️ Hosting Events <br>
 📖 Reading <br>
-📝 Writing 
+📝 Writing
 
 ###
 
