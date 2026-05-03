@@ -89,19 +89,19 @@
 
 ### 🚀 Featured Projects  
 
-### - 🔥 Calorie Counter App  
+#### - 🔥 Calorie Counter App  
   → Tracks daily calorie intake and helps maintain a healthy lifestyle  
   → Tech: Django, HTML, CSS 
 
-### - 📝 Blog Website  
+#### - 📝 Blog Website  
   → Users can create, read, update, and delete blog posts  
   → Tech: Django, HTML, CSS  
 
-### - 💼 Job Portal  
+#### - 💼 Job Portal  
   → Connects job seekers with employers and job opportunities  
   → Tech: Django, HTML, CSS 
 
-### - 🩺 Medicine & Doctor Suggestion System  
+#### - 🩺 Medicine & Doctor Suggestion System  
   → Suggests first aid, medicine & doctors based on symptoms  
   → Tech: Django, HTML, CSS 
 
