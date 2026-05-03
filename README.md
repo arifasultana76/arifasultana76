@@ -16,7 +16,7 @@
 
 ### 🎯 Objective
 
-#### To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
+To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 ###
 
 <h2 align="left"></h2>
@@ -27,7 +27,7 @@
 ### 🌱 I’m currently learning - React, JWT
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
-
+###
 
 ### 💡 Skills
 
