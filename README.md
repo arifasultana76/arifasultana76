@@ -28,6 +28,7 @@
 ### ⚡ Fun fact - I'm Lazy but Smart!
 
 ## 💡 Skills
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="adobe illustrator logo" />
   <img width="12" />
@@ -86,7 +87,7 @@
 </div>
 
 
-## 🚀 Featured Projects  
+### 🚀 Featured Projects  
 
 - 🔥 Calorie Counter App  
   → Tracks daily calorie intake and helps maintain a healthy lifestyle  
