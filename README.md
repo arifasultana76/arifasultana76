@@ -14,8 +14,9 @@
 
 <h1 align="center"></h1>
 
-## 🎯 Objective
-### To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
+### 🎯 Objective
+
+#### To build a strong foundation in programming by learning and applying new technologies and tools. My goal is to enhance problem-solving skills and gain hands-on experience in mobile app development, web technologies, machine learning, and data analysis. I am passionate about creating innovative solutions while continuously growing as a software developer.
 ###
 
 <h2 align="left"></h2>
@@ -27,7 +28,8 @@
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
 
-## 💡 Skills
+
+### 💡 Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="adobe illustrator logo" />
@@ -73,20 +75,6 @@
 </div>
 <br/><br/> 
 
-
-### ✍️ Read My Blogs
-<br>
-<div align="center">
-
-
-| Blog Name | Platform | Link |
-|-----------|----------|------|
-| “Git Lookback: Reading the Story Buried in Code”| Medium | 👉 [Read](https://medium.com/@arifasultana76/git-lookback-reading-the-story-buried-in-code-3ac9f3018cb1) |
-| 🌍 The Journey Behind Every Click: How Django Brings Websites to Life | Medium | 👉 [Read](https://medium.com/@arifasultana76/the-journey-behind-every-click-how-django-brings-websites-to-life-b0d21cf8406b) |
-
-</div>
-
-
 ### 🚀 Featured Projects  
 
 #### - 🔥 Calorie Counter App  
@@ -104,6 +92,19 @@
 #### - 🩺 Medicine & Doctor Suggestion System  
   → Suggests first aid, medicine & doctors based on symptoms  
   → Tech: Django, HTML, CSS 
+
+
+### ✍️ Read My Blogs
+<br>
+<div align="center">
+
+
+| Blog Name | Platform | Link |
+|-----------|----------|------|
+| “Git Lookback: Reading the Story Buried in Code”| Medium | 👉 [Read](https://medium.com/@arifasultana76/git-lookback-reading-the-story-buried-in-code-3ac9f3018cb1) |
+| 🌍 The Journey Behind Every Click: How Django Brings Websites to Life | Medium | 👉 [Read](https://medium.com/@arifasultana76/the-journey-behind-every-click-how-django-brings-websites-to-life-b0d21cf8406b) |
+
+</div>
 
 
 ### 🌌 Tech Motion Zone
