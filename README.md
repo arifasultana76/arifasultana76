@@ -88,6 +88,8 @@
 
 
 ### 🚀 Featured Projects  
+<br>
+<div align="center">
 
 - 🔥 Calorie Counter App  
   → Tracks daily calorie intake and helps maintain a healthy lifestyle  
