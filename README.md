@@ -72,9 +72,11 @@
 </div>
 <br/><br/> 
 
+
 ### ✍️ Read My Blogs
 <br>
 <div align="center">
+
 
 | Blog Name | Platform | Link |
 |-----------|----------|------|
@@ -82,6 +84,25 @@
 | 🌍 The Journey Behind Every Click: How Django Brings Websites to Life | Medium | 👉 [Read](https://medium.com/@arifasultana76/the-journey-behind-every-click-how-django-brings-websites-to-life-b0d21cf8406b) |
 
 </div>
+
+
+## 🚀 Featured Projects  
+
+- 🔥 Calorie Counter App  
+  → Tracks daily calorie intake and helps maintain a healthy lifestyle  
+  → Tech: Django, HTML, CSS 
+
+- 📝 Blog Website  
+  → Users can create, read, update, and delete blog posts  
+  → Tech: Django, HTML, CSS  
+
+- 💼 Job Portal  
+  → Connects job seekers with employers and job opportunities  
+  → Tech: Django, HTML, CSS 
+
+- 🩺 Medicine & Doctor Suggestion System  
+  → Suggests first aid, medicine & doctors based on symptoms  
+  → Tech: Django, HTML, CSS 
 
 
 ### 🌌 Tech Motion Zone
