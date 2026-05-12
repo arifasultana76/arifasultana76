@@ -85,7 +85,7 @@ To build a strong foundation in programming by learning and applying new technol
   → Users can create, read, update, and delete blog posts  
   → Tech: Django, HTML, CSS  
 
-#### - 💼 Job Portal  
+#### - 💼 Job Portal 
   → Connects job seekers with employers and job opportunities  
   → Tech: Django, HTML, CSS 
 
