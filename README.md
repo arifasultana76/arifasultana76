@@ -24,6 +24,7 @@ To build a strong foundation in programming by learning and applying new technol
 ### 🖥️ Programming Languages - Python
 ### 🌐 Markup & Style Languages - HTML, CSS 
 ### 📚 Backend Development & Frameworks - Django, Django REST Framework (DRF), API
+### 📚 Database - sqlite, Postgresql
 ### 🌱 I’m currently learning - Loading....
 ### 🛠️ Tools - Git, GitHub, VS Code, Wakatime
 ### ⚡ Fun fact - I'm Lazy but Smart!
