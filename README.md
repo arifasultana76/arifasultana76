@@ -76,7 +76,7 @@ To build a strong foundation in programming by learning and applying new technol
 </div>
 <br/><br/> 
 
-🚀 Featured Projects 
+### 🚀 Featured Projects 
 
 #### - 🔥 Calorie Counter App  
   → Tracks daily calorie intake and helps maintain a healthy lifestyle  
