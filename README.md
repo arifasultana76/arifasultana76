@@ -82,7 +82,7 @@ To build a strong foundation in programming by learning and applying new technol
   → Tracks daily calorie intake and helps maintain a healthy lifestyle  
   → Tech: Django, HTML, CSS 
 
-#### - 📝 Blog Website  
+#### - 📝 Blog Website
   → Users can create, read, update, and delete blog posts  
   → Tech: Django, HTML, CSS  
 
